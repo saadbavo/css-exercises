@@ -1,8 +1,14 @@
-.first{
-    background-color: #000;
-    color: hsl(0, 0%, 100%);
-
+.first,
+.secn {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
 }
-.secn{
-    background-color: #ffff00;
+
+.first{
+  background-color: black;
+  color: white;
+}
+
+.secn {
+  background-color: yellow;
 }
